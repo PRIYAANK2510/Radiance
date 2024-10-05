@@ -4,8 +4,8 @@ A modern dark theme with carefully selected colors for optimal readability and c
 
 ## 📸 Screenshots
 
-![](https://raw.githubusercontent.com/PRIYAANK2510/Catalyst-theme/main/assets/SS2.png)
-![](https://raw.githubusercontent.com/PRIYAANK2510/Catalyst-theme/main/assets/SS1.png)
+![](https://raw.githubusercontent.com/PRIYAANK2510/Radiance/refs/heads/main/assets/SS%20(2).png)
+![](https://raw.githubusercontent.com/PRIYAANK2510/Radiance/refs/heads/main/assets/SS%20(1).png)
 
 > Font used in screenshots: [Fira Code](https://github.com/tonsky/FiraCode)  
 > File icons: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
