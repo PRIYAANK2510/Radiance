@@ -54,4 +54,4 @@ Found something that could be improved? Please create an [issue](https://github.
 If you like this theme, please consider:
 - ⭐ Starring the [repository](https://github.com/PRIYAANK2510/Radiance)
 - 📢 Sharing it with others
-- 💝 Rating it on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Priyaank.radiance)
+- 💝 Rating it on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Priyaank.radiancexx)

@@ -1,6 +1,6 @@
 {
-  "name": "radiance",
-  "displayName": "Radiance",
+  "name": "radiancexx",
+  "displayName": "Radiance Theme",
   "description": "A modern dark theme with carefully selected colors for optimal readability and coding comfort",
   "version": "0.0.1",
   "publisher": "Priyaank",
@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Radiance Gray",
+        "label": "Radiant Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/radiance-gray-theme.json"
       }
