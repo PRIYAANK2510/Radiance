@@ -1,0 +1,41 @@
+{
+  "name": "radiance",
+  "displayName": "Radiance",
+  "description": "A modern dark theme with carefully selected colors for optimal readability and coding comfort",
+  "version": "0.0.1",
+  "publisher": "Priyaank",
+  "author": {
+    "name": "Priyaank"
+  },
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "radiance",
+    "color theme",
+    "gray"
+  ],
+  "icon": "assets/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Radiance Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/radiance-gray-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PRIYAANK2510/Radiance"
+  },
+  "bugs": {
+    "url": "https://github.com/PRIYAANK2510/Radiance/issues"
+  },
+  "homepage": "https://github.com/PRIYAANK2510/Radiance#readme"
+}
