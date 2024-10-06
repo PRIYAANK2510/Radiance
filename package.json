@@ -24,14 +24,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Radiance-Gray",
+        "label": "Radiance Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/radiance-gray-theme.json"
       },
       {
-        "label": "Radiance-Eerie",
+        "label": "Radiance Eerie",
         "uiTheme": "vs-dark",
         "path": "./themes/radiance-eerie-theme.json"
+      },
+      {
+        "label": "Radiance Jade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/radiance-jade-theme.json"
       }
     ]
   },
