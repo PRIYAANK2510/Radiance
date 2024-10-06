@@ -24,12 +24,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Radiant Gray",
+        "label": "Radiance-Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/radiance-gray-theme.json"
       },
       {
-        "label": "Radiant Eerie",
+        "label": "Radiance-Eerie",
         "uiTheme": "vs-dark",
         "path": "./themes/radiance-eerie-theme.json"
       }
