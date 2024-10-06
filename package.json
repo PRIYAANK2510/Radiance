@@ -27,6 +27,11 @@
         "label": "Radiant Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/radiance-gray-theme.json"
+      },
+      {
+        "label": "Radiant Eerie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/radiance-eerie-theme.json"
       }
     ]
   },

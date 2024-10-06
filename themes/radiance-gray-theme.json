@@ -1971,7 +1971,7 @@
 		"panelTitle.inactiveForeground": "#394045",
 		"badge.background": "#39a7f2",
 		"badge.foreground": "#1a1a1a",
-		"terminal.foreground": "#cccccc",
+		"terminal.foreground": "#adccd9",
 		"terminal.selectionBackground": "#ffffff20",
 		"terminalCursor.background": "#eeeeee",
 		"terminalCursor.foreground": "#39a7f2",
